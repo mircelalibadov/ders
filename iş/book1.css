@@ -1,0 +1,21 @@
+*{
+    margin:  0px;
+    padding: 0px;
+}
+.b{
+background-color: blue;
+margin-top: ;
+background-color: greenyellow;
+}
+.a{
+    background-color: aqua;
+    border-left: 10px solid;
+    margin-left: 20px;
+}
+div{
+    padding: 20px;
+}
+h1{
+background-color: rgb(109, 18, 18);
+border-left: 20px;
+}
